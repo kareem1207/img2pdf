@@ -19,6 +19,11 @@ The script leverages popular Python libraries to read image files, process them,
 - sample output pdf generated using vanilla
 - sample output pdf generated using ipynb
 
+## Installation
+
+git clone https://github.com/kareem1207/img2pdf.git
+cd "image to pdf"
+
 ## Requirements
 
 - img2pdf module
