@@ -22,7 +22,7 @@ The script leverages popular Python libraries to read image files, process them,
 ## Installation
 
 1. git clone https://github.com/kareem1207/img2pdf.git
-2. cd "image to pdf"
+2. cd img2pdf-main
 
 ## Requirements
 
